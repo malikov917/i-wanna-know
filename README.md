@@ -1,9 +1,16 @@
 # Project: I Wanna Know
 
-This project is an application designed for inspiration, in-depth reading, and exploration of popular topics. The idea is to start with 100 categories, each containing 100 finely curated topics. For example, if you choose the psychology category, you'll encounter topics like Gestalt psychology, where a concise, 5-page summary covers the essentials—with potential follow-up prompts added later.
+ [Quick link: <img alt="Quick google collab link" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" /> ](https://colab.research.google.com/github/malikov917/i-wanna-know/blob/main/i-wanna-know.ipynb)
+
+
+This project is an application designed for inspiration, in-depth reading, and exploration of popular topics. The idea is to start with 100 categories, each containing 100 finely curated topics.
+
+For example, if you choose the psychology category, you'll encounter topics like Gestalt psychology, where a concise, 5-page summary covers the essentials—with potential follow-up prompts added later.
 
 ## Implementation:
-A specialized model processes millions of text lines from the internet to form clusters through topic modeling. Each cluster is then analyzed to extract and develop detailed topics. This approach is inspired by the deep research methodology seen in platforms like Perplexity (have you tried it?), offering a unique, customizable format for engaging with content.
+A specialized model processes millions of text lines from the internet to form clusters through topic modeling. Each cluster is then analyzed to extract and develop detailed topics.
+
+This approach is inspired by the deep research methodology seen in platforms like Perplexity (have you tried it?), offering a unique, customizable format for engaging with content.
 
 ## Running the project:
 
